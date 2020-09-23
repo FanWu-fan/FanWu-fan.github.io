@@ -1,1 +1,1 @@
-[Intro.pdf](http://USERNAME.github.io/REPONAME/docs/Intro.pdf)
+[Intro.pdf](https://github.com/xufanzuo/FanWu_CurriculumVitae/blob/master/cv.pdf)
