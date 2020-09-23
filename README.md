@@ -1,1 +1,7 @@
-[Intro.pdf](https://github.com/xufanzuo/FanWu_CurriculumVitae/blob/master/cv.pdf)
+# Fan Wu 
+Email : [](wf18@mail.ustc.edu.cn)
+Github: [](https://github.com/xufanzuo)
+
+
+[]("./cv_Page1.png")
+[]("./cv_Page2.png")
