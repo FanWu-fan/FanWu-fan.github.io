@@ -1,10 +1,6 @@
 <!-- <h1 align = "center">Fan Wu</h1>
 <center> University of Science and Technology of China, Anhui 230026, China</center> -->
 
----
-layout: post
-title: Fan Wu 
----
 
 ![](./split.png)
 
