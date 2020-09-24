@@ -23,12 +23,23 @@
 **4th National College Student Agricultural Construction Competition** - First Prize <span style="float:right" face="italic"> *2016* </span>
 
 
-
-
 ## Publications  ![](./split.png)
+-- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
+Z. Zhu, <u> **Fan Wu** </u>, J. Cao, X. Li and G. Jia, "A Thread-Oriented Memory Resource Management Framework for Mobile Edge Computing," in IEEE Access, vol. 7, pp. 45881-45890, 2019, doi: 10.1109/ACCESS.2019.2909642. (SCI) (IF 4.098)
 
+-- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
 
+-- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
 
+-- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
+
+-- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
+
+-- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
+
+-- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
+
+-- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
       
 
 
