@@ -24,24 +24,32 @@
 
 
 ## Publications  ![](./split.png)
--- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
+-- **Published** *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
 Z. Zhu, **<u>Fan Wu</u>**, J. Cao, X. Li and G. Jia, "A Thread-Oriented Memory Resource Management Framework for Mobile Edge Computing," in IEEE Access, vol. 7, pp. 45881-45890, 2019, doi: 10.1109/ACCESS.2019.2909642. (SCI) (IF 4.098)
 
--- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
+-- **Accepted**  <span style="float:right" face="italic"> *June 2020* </span> <br>
+**<u>Fan Wu</u>**, Zhuoqun Xu, Huanghe Liu and Zongwei Zhu. Machine learning agricultural application based on the secure edge computing platform. // 3rd International Conference on Machine Learning for Cyber Security (ML4CS 2020) (EI)
 
--- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
+-- **Under review**  <span style="float:right" face="italic"> *September 2020* </span> <br>
+**<u>Fan Wu</u>**, Huanghe Liu, Zongwei Zhu, Cheng ji and Chun Xue,"Overcoming Memory Constraint for Improved Target Classification Performance on Embedded Deep Learning Systems"
+(HPCC)(EI)(CCF-C)
 
--- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
+-- **Grant of invention patents**  *student first author* <span style="float:right" face="italic"> *August 2018* </span> <br>
+Jia Wei , **<u>Fan Wu</u>**, and Zhuoqun Xu, etc. Manipulator suitable for bird egg grabbing. Public (Announcement) Number: CN105798941B (Chinese Invention Patent) 
 
--- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
+-- **Accepted**  <span style="float:right" face="italic"> *August 2020* </span> <br>
+Zhuoqun Xu, **<u>Fan Wu</u>**, Liying Zhu and Yi Li. LSTM Model Based on Multi-Feature Extractor to Detect Flow Pattern Change Characteristics and Parameter Measurement, IEEE sensors Journal. (SCI) (IF 3.076) 
 
--- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
+-- **Accepted**  <span style="float:right" face="italic"> *September 2020* </span> <br>
+Zhuoqun Xu, **<u>Fan Wu</u>**, Yiyuan Yang and Yi Li. ECT Attention Reverse Mapping Algorithm: Visualization of Flow Pattern Heatmap Based on CNN and Its Impact on ECT Image Reconstruction, Measurement Science and Technology. (MST) (SCI) (IF 2.071)  
 
--- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
+-- **Published**  <span style="float:right" face="italic"> *February  2020* </span> <br>
+Zhuoqun Xu, **<u>Fan Wu</u>**, Xinmeng Yang and Yi Li,"Measurement of Gas-Oil Two-Phase
+Flow Patterns by Using CNN Algorithm Based on Dual ECT Sensors with Venturi
+Tube." Sensors, 2020, 20(4): 1200. (SCI) (IF 3.275)  
 
--- Published *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
-      
-
+-- **Published**  <span style="float:right" face="italic"> *February 2020* </span> <br>
+Zhuoqun Xu, **<u>Fan Wu</u>** and Xue Gong. Convolutional neural network: Trajectory planning and motion control of the three-degree-of-freedom logistics sorting parallel manipulator. (Robotics and Autonomous Systems) (IF 2.825)     
 
 ## Projects / Research Experience ![](./split.png)
 
