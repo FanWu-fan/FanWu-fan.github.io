@@ -6,18 +6,22 @@
 
 **Huazhong Agricultural University** <span style="float:right" face="italic"> *September 2014 - June 2018* </span> <br> B.S. in Huazhong Agricultural University, <br> Agricultural Mechanization and Automation,
 
-**Huazhong Agricultural University** <span style="float:right" face="italic"> *September 2014 - June 2018* </span> <br>  B.S. in Huazhong Agricultural University, <br> Plant Science and Technology
+**Huazhong Agricultural University** <span style="float:right" face="italic"> *September 2013 - June 2014* </span> <br>  B.S. in Huazhong Agricultural University, <br> Plant Science and Technology
 
 <span style="float:right" face="italic"> </span>
 
-![](./split.png)
 
-#### 专业技能
 
-* 熟悉 C++ / Python
-* 掌握常见数据结构和基本算法，掌握操作系统、计算机网络等基础知识
-* 熟悉 Linux 操作系统和常用命令，熟悉 Git 等工具的使用
-* 有 docker 和 Kubernetes 学习和使用经验
+## Honors / Awards ![](./split.png)
+
+Optical remote sensing satellite data algorithm competition - First Prize <span style="float:right" face="italic"> 2019 </span>
+<br>
+Outstanding graduate, Huazhong Agricultural University <span style="float:right" face="italic"> 2018 </span>
+<br>
+National Encouragement Scholarship, Huazhong Agricultural University <span style="float:right" face="italic"> 2017 </span>
+<br>
+4th National College Student Agricultural Construction Competition <span style="float:right" face="italic"> 2016 </span>
+
 
 ![](./split.png)
 
