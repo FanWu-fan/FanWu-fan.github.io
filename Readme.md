@@ -31,7 +31,7 @@ Z. Zhu, **<u>Fan Wu</u>**, J. Cao, X. Li and G. Jia, "A Thread-Oriented Memory R
 **<u>Fan Wu</u>**, Huanghe Liu, Zongwei Zhu, Cheng ji and Chun Xue,"Overcoming Memory Constraint for Improved Target Classification Performance on Embedded Deep Learning Systems"
 (HPCC)(EI)(CCF-C)
 
--- **Grant of invention patents**  *student first author* <span style="float:right" face="italic"> *August 2018* </span> <br>
+-- **Authorized**  *student first author* <span style="float:right" face="italic"> *August 2018* </span> <br>
 Jia Wei , **<u>Fan Wu</u>**, and Zhuoqun Xu, etc. Manipulator suitable for bird egg grabbing. Public (Announcement) Number: CN105798941B (Chinese Invention Patent) 
 
 -- **Accepted**  <span style="float:right" face="italic"> *August 2020* </span> <br>
