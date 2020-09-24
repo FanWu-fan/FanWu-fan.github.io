@@ -4,7 +4,7 @@
 
 ![](./split.png)
 
-### Education
+## Education
 
 **University of Science and Technology of China**  <span style="float:right" face="italic"> *September 2018 - present* </span> <br> M.S. in University of Science and Technology of China, <br> Software Engineering, GPA: (3.24/4.3).  (83/100)
 
