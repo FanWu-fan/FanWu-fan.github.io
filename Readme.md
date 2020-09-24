@@ -12,8 +12,16 @@ M.S. in University of Science and Technology of China,
 
 Software Engineering, GPA: (3.24/4.3).  (83/100)
 
-**Huazhong Agricultural University** <span style="float:right" face="italic"> *September 2018 - present* </span>
+**Huazhong Agricultural University** <span style="float:right" face="italic"> *September 2014 - June 2018* </span>
 
+B.S. in Huazhong Agricultural University, </br>
+Agricultural Mechanization and Automation,
+
+**Huazhong Agricultural University** <span style="float:right" face="italic"> *September 2014 - June 2018* </span>
+
+B.S. in Huazhong Agricultural University,  
+
+Plant Science and Technology
 
 
 
