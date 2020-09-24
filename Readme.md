@@ -1,35 +1,21 @@
-<style type="text/css">
-.pic{width:90px;height:126px;float:right;margin-right:10px;border:1px solid #ccc}
-.cent{float:left;}
-</style>
+<!-- <h1 align = "center">Fan Wu</h1>
+<center> University of Science and Technology of China, Anhui 230026, China</center> -->
 
-<div class="cent">
-  <p>
-    <font size=5><strong>刘黄河</strong></font>
-  </p>
-  <br>电话：173-6539-1767&emsp;<br>邮箱：liuhuanghe@hotmail.com&emsp;<br>微信：Huanghe_946
-</div>
-<div class="pic"><img src="./17_pic.jpg"  alt=""/></div>
+# Fan Wu
 
 ![](./split.png)
 
-#### 教育和工作经历
+### Education
 
-* 中国科学技术大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018.09 ~ 至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 软件工程专业-硕士研究生
-* 四川大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2013.09 ~ 2017.6&emsp;&emsp;&emsp;&emsp;&emsp;计算机科学与技术专业-本科  
-* 深圳云天励飞技术有限公司&emsp;&emsp;&emsp;2017.07 ~ 2017.10 &emsp;&emsp;&emsp;&emsp; C++后端开发工程师
+**University of Science and Technology of China**  <span style="float:right" face="italic"> *September 2018 - present* </span>
 
 
 
 
-sdad <span style="float:right" face="italic"> *September 2018 - presen*t </span>
-
-sdad <span style="float:right" face="italic"> <i>September 2018 - present<i> </span>
 
 
-55
+sdad <span style="float:right" face="italic"> </span>
 
-sdad <front style="float:right" face="italic"> *September 2018 - present* </front>
 
 ![](./split.png)
 
