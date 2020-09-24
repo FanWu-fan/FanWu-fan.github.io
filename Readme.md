@@ -53,14 +53,14 @@ Zhuoqun Xu, **<u>Fan Wu</u>** and Xue Gong. Convolutional neural network: Trajec
 
 ## Projects / Research Experience ![](./split.png)
 **Object Detection based on Nvidia TX2** <span style="float:right" face="italic"> *November 2018 - June 2019* </span> <br>
-Based on the yolov3 model, a combination of channel pruning and layer pruning are used. And finally ported to TensorRT. <bar>
+*Based on the yolov3 model, a combination of channel pruning and layer pruning are used. And finally ported to TensorRT.* <bar>
 
 * Use pytorch for *YOLOV3* training and pruning to reduce the size of the yolov3 model to less than 100MB;
 * For the *YOLOV3* detection layer, separately write code processing, mainly including anchor and nms implementation to improve the running speed of the CPU.
 * Write a C++ program to recognize and process the video file or camera input frame by frame and display the recognition result in real time. The image processing part uses opencv.
 
 **Cambrian (MLU100) Deep Learning algorithm transplantation** <span style="float:right" face="italic"> *September 2018 - August 2019* </span>  <bar>
-Transplant the cnn model to the Cambrian computing card, and write the corresponding demo (target recognition, classification, face recognition, vehicle detection, etc.)  <bar>
+*Transplant the cnn model to the Cambrian computing card, and write the corresponding demo (target recognition, classification, face recognition, vehicle detection, etc.)*  <br>
 
 *  Write a C++ program to recognize video files or picture lists.
 *  Three threads are used to process image reading and preprocessing, model reasoning, and result writing back, use queues for data buffering, and copy data from board memory and main memory.
