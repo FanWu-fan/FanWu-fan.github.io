@@ -1,6 +1,6 @@
 #吴凡
 邮箱：wf18@mail.ustc.edu.cn
-Github: https://github.com/xufanzuo?tab=repositories 
+Github: https://github.com/xufanzuo
 
 ## 教育 ![](./split.png)
 **中国科学技术大学**  <span style="float:right" face="italic"> *September 2018 - present* </span> <br> 硕士位于中国科学技术大学, <br> 软件工程专业, GPA: (3.24/4.3).  (83/100)
@@ -18,7 +18,7 @@ Github: https://github.com/xufanzuo?tab=repositories
 **海量光学遥感卫星数据智能处理算法大赛** - 一等奖 <span style="float:right" face="italic"> *2019* </span>
 **优秀毕业生**, 华中农业大学 <span style="float:right" face="italic"> *2018* </span>
 **国家励志奖学金**, 华中农业大学 <span style="float:right" face="italic"> *2017* </span>
-**四届全国大学生智能农业装备创新大赛** - 特等奖 <span style="float:right" face="italic"> *2016* </span>
+**第四届全国大学生智能农业装备创新大赛** - 特等奖 <span style="float:right" face="italic"> *2016* </span>
 
 
 ## 刊物  ![](./split.png)
@@ -63,7 +63,7 @@ Zhuoqun Xu, **<u>Fan Wu</u>** and Xue Gong. Convolutional neural network: Trajec
 *  编写一个c++程序来识别视频文件或图片列表。
 *  三个线程用于处理图像读取和预处理、模型推理和结果写回、使用队列进行数据缓冲以及从主板内存和主存复制数据。
 
-**鸭内脏分拣的并联机械手设计** <span style="float:right" face="italic"> *September 2017 - August 2018* </span>  <br>
+**鸭内脏分拣的并联机械手设计** <span style="float:right" face="italic"> *September 2017 - Mar 2018* </span>  <br>
 *设计并联机械臂的机械结构，电路，软件算法，结合末端执行器，完成鸭内脏分拣的样机*  <br>
 
 *  利用PROE仿真，3D打印机，以及数控机床设计并联机械臂平台。
