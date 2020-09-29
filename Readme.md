@@ -69,8 +69,8 @@ Zhuoqun Xu, **<u>Fan Wu</u>** and Xue Gong. Convolutional neural network: Trajec
 https://github.com/xufanzuo/Graduation-Project-Visceral-sorting
 
 *  Use PROE simulation, 3D printer, and CNC machine tools to design a parallel robotic arm platform.
-*  Use two single-chip STM32 serial communication, coupling end effector and parallel manipulator。
-*  Experiment to measure the maximum pressure on the internal organs of the duck, and use filtering and other algorithms to find the maximum pressure。
+*  Use two single-chip STM32 serial communication, coupling end effector and parallel manipulator.
+*  Experiment to measure the maximum pressure on the internal organs of the duck, and use filtering and other algorithms to find the maximum pressure.
 
 
 ## SKILLS ![](./split.png)
