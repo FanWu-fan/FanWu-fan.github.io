@@ -63,10 +63,8 @@ Zhuoqun Xu, **<u>Fan Wu</u>** and Xue Gong. Convolutional neural network: Trajec
 *  Three threads are used to process image reading and preprocessing, model reasoning, and result writing back, use queues for data buffering, and copy data from board memory and main memory.
 
 
-**Parallel robotic arm-for duck viscera sorting** <span style="float:right" face="italic"> *September 2017 - February 2018* </span>  <br>
+[**Parallel robotic arm-for duck viscera sorting**](https://github.com/xufanzuo/Graduation-Project-Visceral-sorting) <span style="float:right" face="italic"> *September 2017 - February 2018* </span>  <br>
 *Design the mechanical structure, circuit, software algorithm of the parallel manipulator, combined with the end effector to complete the duck viscera sorting prototype*  <br>
-
-https://github.com/xufanzuo/Graduation-Project-Visceral-sorting
 
 *  Use PROE simulation, 3D printer, and CNC machine tools to design a parallel robotic arm platform.
 *  Use two single-chip STM32 serial communication, coupling end effector and parallel manipulator.
