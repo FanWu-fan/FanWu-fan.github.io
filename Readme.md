@@ -1,5 +1,5 @@
 ## Education ![](./split.png)
-**University of Science and Technology of China**  <span style="float:right" face="italic"> *September 2018 - present* </span> <br> M.S. in University of Science and Technology of China, <br> Software Engineering, GPA: (3.24/4.3).  (83/100)
+**University of Science and Technology of China**  <span style="float:right" face="italic"> *September 2018 - present* </span> <br> M.S. in University of Science and Technology of China, <br> Software Engineering, GPA: (3.24/4.0).  (83/100)
 
 **Huazhong Agricultural University** <span style="float:right" face="italic"> *September 2014 - June 2018* </span> <br> B.S. in Huazhong Agricultural University, <br> Agricultural Mechanization and Automation,
 

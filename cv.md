@@ -3,7 +3,7 @@
 Github: https://github.com/xufanzuo
 
 ## 教育 ![](./split.png)
-**中国科学技术大学**  <span style="float:right" face="italic"> *September 2018 - present* </span> <br> 硕士位于中国科学技术大学, <br> 软件工程专业, GPA: (3.24/4.3).  (83/100)
+**中国科学技术大学**  <span style="float:right" face="italic"> *September 2018 - present* </span> <br> 硕士位于中国科学技术大学, <br> 软件工程专业, GPA: (3.24/4.0).  (83/100)
 
 **华中农业大学** <span style="float:right" face="italic"> *September 2014 - June 2018* </span> <br> 学士位于华中农业大学, <br> 农业机械化及其自动化,
 
