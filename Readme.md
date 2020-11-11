@@ -24,10 +24,10 @@
 -- **Published** *student first author* <span style="float:right" face="italic"> *April  2019* </span> <br>
 Z. Zhu, **<u>Fan Wu</u>**, J. Cao, X. Li and G. Jia, "A Thread-Oriented Memory Resource Management Framework for Mobile Edge Computing," in IEEE Access, vol. 7, pp. 45881-45890, 2019, doi: 10.1109/ACCESS.2019.2909642. (SCI) (IF 4.098)
 
--- **Accepted**  <span style="float:right" face="italic"> *June 2020* </span> <br>
+-- **Published**  <span style="float:right" face="italic"> *June 2020* </span> <br>
 **<u>Fan Wu</u>**, Zhuoqun Xu, Huanghe Liu and Zongwei Zhu. Machine learning agricultural application based on the secure edge computing platform. // 3rd International Conference on Machine Learning for Cyber Security (ML4CS 2020) (EI)
 
--- **Under review**  <span style="float:right" face="italic"> *September 2020* </span> <br>
+-- **Accepted**  <span style="float:right" face="italic"> *September 2020* </span> <br>
 **<u>Fan Wu</u>**, Huanghe Liu, Zongwei Zhu, Cheng ji and Chun Xue,"Overcoming Memory Constraint for Improved Target Classification Performance on Embedded Deep Learning Systems"
 (HPCC)(EI)(CCF-C)
 
@@ -63,7 +63,7 @@ Zhuoqun Xu, **<u>Fan Wu</u>** and Xue Gong. Convolutional neural network: Trajec
 *  Three threads are used to process image reading and preprocessing, model reasoning, and result writing back, use queues for data buffering, and copy data from board memory and main memory.
 
 
-**Parallel robotic arm-for duck viscera sorting** [*Website Link*](https://github.com/xufanzuo/Graduation-Project-Visceral-sorting) <span style="float:right" face="italic"> *September 2017 - February 2018* </span>  <br>
+**Parallel robotic arm-for duck viscera sorting** [*(Website Link)*](https://github.com/xufanzuo/Graduation-Project-Visceral-sorting) <span style="float:right" face="italic"> *September 2017 - February 2018* </span>  <br>
 *Design the mechanical structure, circuit, software algorithm of the parallel manipulator, combined with the end effector to complete the duck viscera sorting prototype*  <br>
 
 *  Use PROE simulation, 3D printer, and CNC machine tools to design a parallel robotic arm platform.
