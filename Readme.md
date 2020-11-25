@@ -3,7 +3,7 @@
 
 **Huazhong Agricultural University (211)** <span style="float:right" face="italic"> *September 2014 - June 2018* </span> <br> B.S. in Huazhong Agricultural University, <br> Agricultural Mechanization and Automation,
 
-**Huazhong Agricultural University (985)** <span style="float:right" face="italic"> *September 2013 - June 2014* </span> <br>  B.S. in Huazhong Agricultural University, <br> Plant Science and Technology
+**Huazhong Agricultural University (211)** <span style="float:right" face="italic"> *September 2013 - June 2014* </span> <br>  B.S. in Huazhong Agricultural University, <br> Plant Science and Technology
 
 <span style="float:right" face="italic"> </span>
 
