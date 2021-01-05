@@ -47,7 +47,7 @@ Zhuoqun Xu, **<u>Fan Wu</u>**, Xinmeng Yang and Yi Li,"Measurement of Gas-Oil Tw
 Flow Patterns by Using CNN Algorithm Based on Dual ECT Sensors with Venturi
 Tube." Sensors, 2020, 20(4): 1200. (SCI) (IF 3.275)  
 
--- **Under review**  *student first author* <span style="float:right" face="italic"> *February 2020* 
+-- **Under review**  *student first author* <span style="float:right" face="italic"> *December 2020* </span> <br>
 Cheng Ji, **<u>Fan Wu</u>**, Zongwei Zhu; Li-pin Chang; Huanghe Liu; Wenjie Zhai, "Improving Memory Utilization for Enhanced Classification Efficacy on Edge DNN Systems". (Journal of Systems Architecture) (IF 2.552)
 
 
